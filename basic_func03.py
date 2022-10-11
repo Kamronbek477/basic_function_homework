@@ -2,5 +2,5 @@
 
 # Return the value "codeschooluz"
 def main():
-    return "codeschool.uz"
+    return "codeschooluz"
 print(main())
